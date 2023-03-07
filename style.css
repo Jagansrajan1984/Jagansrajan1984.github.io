@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.portfolio-bg {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.navbar-bg {
+    background-color: rgb(88, 88, 190); 
+    color: #752323;
+}
+
+.container-fluid .row .col-sm-9 p, .container-fluid .row .col-sm-9 p ul {
+    text-align: justify;
+}
+
+.edu-exp-h4 {
+    color: blue;
+    text-transform: uppercase;
+}
+.company {
+    color: #595959;
+    text-transform: uppercase; 
+}
+.exp-ul {
+    text-align: justify;
+    padding-inline-start: 20px;
+}
+
+.ps-ul {
+    text-align: justify;
+}
+
+.cl-dr-name {
+    color: #1D824C
+}
+
+.vl {
+    border-left: 2px dotted blue;
+  }
